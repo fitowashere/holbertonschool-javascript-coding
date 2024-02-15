@@ -1,4 +1,4 @@
-// 0-console.js
+// displays a message
 function displayMessage(message) {
   console.log(message);
 }
